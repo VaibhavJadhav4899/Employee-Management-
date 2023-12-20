@@ -1,4 +1,11 @@
-# group 13 
+# Group 13
+#Reva Bharara - 21BCE10581 (Team Lead)
+#Esther George Sam - 21BCE10815
+#Vaishnavi Kola - 21BCE10247
+#Aryan Rathore - 21BCE10568
+#Vaibhav Vasantrao Jadhav - 21BCE11669
+#Tejal Bishnoi - 21BCE10459
+#Gunjan Singhal - 21BCE11324
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
