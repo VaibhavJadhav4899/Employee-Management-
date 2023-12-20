@@ -1,0 +1,56 @@
+﻿
+
+# Employee Management System
+
+This is a simple Employee Management System written in Python using Tkinter and SQLite.
+
+## Installation
+
+1. Make sure you have Python installed. If not, download and install it from [python.org](https://www.python.org/downloads/).
+2. Clone this repository or download the ZIP file.
+3. Open a terminal or command prompt and navigate to the project directory.
+4. Install the required dependencies by running the following command:
+
+   pip install tk
+   pip install sqlite3
+
+## Run the employee_management_system.py script:
+
+python employee_management_system.py
+
+------------- OR -----------------
+
+open and run the file in any code runner like visual studio code.
+
+The Employee Management System GUI will open.
+
+Add, update, delete, or clear employee records using the provided buttons.
+
+View and interact with the employee records displayed in the table.
+
+## Examples
+
+### Adding an Employee
+
+1. Fill in the employee details in the input fields.
+2. Click the "Add" button to insert the record.
+3. A success message will be displayed, and the table will be updated.
+
+### Updating an Employee
+
+1. Select a row in the table to populate the input fields.
+2. Modify the employee details as needed.
+3. Click the "Update" button to save the changes.
+4. A success message will be displayed, and the table will be updated.
+
+### Deleting an Employee
+
+1. Select a row in the table.
+2. Click the "Delete" button to remove the record.
+3. A success message will be displayed, and the table will be updated.
+
+### Clearing All Fields
+
+Click the "Clear All" button to reset all input fields.
+
+
